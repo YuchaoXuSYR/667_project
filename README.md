@@ -19,4 +19,4 @@ Then it is player2 turn. You can see if I choose (8,8) or (2,5), both of them wi
 ![alt text](Screenshots/player2bug.png)<br/>
 Follow the same steps, after several rounds, we can see, for instance:<br/>
 ![alt text](Screenshots/winner.png)<br/>
-When player1 put stone on (5,1), he will be the winner since he get 5 stones in a row
+When player1 put stone on (5,1), he will be the winner since he get 5 stones in a row<br/>
