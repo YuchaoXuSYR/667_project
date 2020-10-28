@@ -8,3 +8,4 @@ Numpy
 # How ro run
 Just simply open the terminal and type 'python main.py'
 Then you will see:
+![alt text](WX20201029-003828@2x.png)
