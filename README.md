@@ -2,7 +2,7 @@
 The project for CIS667, Introduction to Artificial Intelligence
 
 # Requirements
-Python 3.x
+Python 3.x<br/>
 Numpy
 
 # How ro run
