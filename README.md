@@ -8,7 +8,7 @@ Numpy
 # How ro run
 Just simply open the terminal and type 'python main.py'<br/>
 Then you will see:<br/>
-![alt text](Screenshots/WX20201029-003828@2x.png)<br/>
+![alt text](Screenshots/initial.png)<br/>
 It requires you to type a number to decide the board size (If size selected is smaller than 5, there will be a warning that there will be no winner).<br/>
 For example I choose size 8:<br/>
 ![alt text](Screenshots/choosesize.png)<br/>
