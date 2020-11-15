@@ -9,7 +9,7 @@ Numpy
 Player vs AI
 
 # How ro run
-Put main.py and treenew.py in the same directory and then open the terminal and type 'python main.py'<br/>
+Put main.py and treenew.py in the same directory and then open the terminal and type 'python main.py'<br/><br/>
 ![alt text](Screenshots/initial.png)<br/>
 It requires you to type a number to decide the board size (If size selected is smaller than 5, there will be a warning that there will be no winner).<br/>
 And it also needs you to choose an AI type. Tree AI is what our team designed and baseline AI chooses actions uniformly at random.<br/>
