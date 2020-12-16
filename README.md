@@ -10,12 +10,11 @@ Pytorch
 There four roles that can be chosen: player, baseline AI, tree-based AI and tree-NN based AI. The user can assign any one of these role to player1 and player2 respectively.
 
 # How ro run
-If you want to play with our already trained models, you can just run:
-python main.py
-
-If you want to train your own model, you can conduct your own training data by:
-python data.py
-(The data file could be very big.)
-Then simply run:
-python neural_network.py
-Finally you got your own models. Each board size will have a model.
+If you want to play with our already trained models, you can just run:<br/>
+python main.py<br/>
+If you want to train your own model, you can conduct your own training data by:<br/>
+python data.py<br/>
+(The data file could be very big.)<br/>
+Then simply run:<br/>
+python neural_network.py<br/>
+Finally you got your own models. Each board size will have a model.<br/>
