@@ -3,7 +3,7 @@ The project for CIS667, Introduction to Artificial Intelligence
 
 # Requirements
 Python 3.x<br/>
-Numpy
+Numpy<br/>
 Pytorch
 
 # Pattern
